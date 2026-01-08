@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from trading_engine.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "trading_engine"
